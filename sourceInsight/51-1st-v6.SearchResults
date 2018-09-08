@@ -1,0 +1,2 @@
+---- POWER_ON Matches (1 in 1 files) ----
+macro.h (E:\work\project\project1\code\51-1st\v6\51-1st):sbit	POWER_ON	=	P7^2;		//---control the power on/off(O)
